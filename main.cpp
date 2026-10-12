@@ -6,6 +6,8 @@ int main() {
     cout << "\nMAIN MENU" << endl;
     cout << "1. Add Student" << endl;
     cout << "2. View Students" << endl;
-    cout << "3. Exit" << endl;
+    cout << "3. Remove Student" << endl;
+    cout << "4. Edit Student" << endl;
+    cout << "5. Exit" << endl;
     return 0;
 }
